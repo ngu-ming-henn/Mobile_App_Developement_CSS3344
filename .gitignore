@@ -1,0 +1,5 @@
+# Safety net for every lab folder (each lab also has its own .gitignore)
+build/
+.dart_tool/
+.idea/
+*.iml
